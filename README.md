@@ -15,3 +15,7 @@
 - you can go to my space at gradio (https://huggingface.co/spaces/Adipta/research-assistant-rag)
 - demo screenshot
 <img width="1269" alt="Screenshot 2024-05-28 at 12 14 24" src="https://github.com/adiptamartulandi/research-assistant-LLM-based-on-RAG/assets/53418888/7d664f5a-4724-4bd4-ba46-c3c1848944c0">
+
+## Another NLP Projects
+- research related to NLP (LLM) (https://github.com/adiptamartulandi/research-llm)
+- course recommender using faiss (https://github.com/adiptamartulandi/coursera-course-recommender)
